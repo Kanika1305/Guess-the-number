@@ -1,5 +1,5 @@
 # GUESS THE NUMBER
-![guess the number](https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61BRwWBPKfL.png&tbnid=ASjncTR37Tg-FM&vet=12ahUKEwjfm6mq4qqDAxXMUGwGHaivDUIQMygRegUIARCDAQ..i&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FJACTheCreator-Guess-The-Number%2Fdp%2FB0797Z83HK&docid=IYCrRjrsAy-yBM&w=512&h=512&q=guess%20the%20number%20game&ved=2ahUKEwjfm6mq4qqDAxXMUGwGHaivDUIQMygRegUIARCDAQ )
+![guess the number](g.png)
 ## Features:
 - A fun time killer to try out with friends
 - A Two player game

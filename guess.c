@@ -5,10 +5,10 @@ int main()
      again:
       int choice;
      int an,bn, num1,num2,c1=100,c2=100;
-      an =rand()%20;
+      an =rand()%50;
         printf("---------------PLAYER 1---------------\n");
      printf(">> YOU CAN START GUSSEING YOUR NUMBER NOW <<.\n");
-     printf("(Range: 1-20)\n");
+     printf("(Range: 1-50)\n");
      label1:
      printf("**Enter your number**\n");
      scanf("%d",&num1);
@@ -32,9 +32,9 @@ int main()
      printf("PLAYER 1 SCORE : %d\n",c1);
        printf("---------------PLAYER 2---------------\n");
       p2:
-      bn =rand()%20;     
+      bn =rand()%50;     
     printf(">> The number to be gussed is selected.\n>> YOU CAN START GUSSEING YOUR NUMBER NOW.\n");
-     printf("(Range: 1-20)\n");
+     printf("(Range: 1-50)\n");
         label2:
      printf("**Enter your number**\n");
      scanf("%d",&num2);

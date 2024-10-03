@@ -13,12 +13,18 @@
 ## Techologies Used:
 C language
 
+ ## How to download
+- Click on the given link.
+ <a href="https://github.com/Kanika1305/Guess-the-number/releases/download/v1/guess.exe"> CLICK here to download GUESS THE NUMBER</a>
+- The .exe file would be downloaded in your computer system.
+- Simply run the .exe file
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improvements, open an issue or create a pull request.
 
 
-## Author:
+## Developer:
 Kanika Chauhan
 
 ## Contacts:

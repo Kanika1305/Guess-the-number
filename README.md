@@ -15,7 +15,7 @@ C language
 
  ## How to download
 - Click on the given link.
- <a href="https://github.com/Kanika1305/Guess-the-number/releases/download/v1/guess.exe"> CLICK here to download GUESS THE NUMBER</a>
+ <a href="https://github.com/Kanika1305/Guess-the-number/releases/download/v1/guessnum.exe"> CLICK here to download GUESS THE NUMBER</a>
 - The .exe file would be downloaded in your computer system.
 - Simply run the .exe file
 
